@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "dany";
+    src: url(/fonts/Inter_18pt-Regular.ttf) format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: "dany";
+    src: url(/fonts/Inter_18pt-Bold.ttf) format("truetype");
+    font-weight: 800;
+}

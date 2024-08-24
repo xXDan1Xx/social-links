@@ -1,16 +1,8 @@
-@font-face {
-  font-family: "MiFuente";
-  src: url("/assets/fonts/static/Inter-Bold.ttf") format("Bold"),
-    url("/assets/fonts/static/Inter-Regular.ttf") format("Regular"),
-    url("/assets/fonts/static/Inter-SemiBold.ttf") format("SemiBold");
-  font-weight: normal;
-  font-style: normal;
-}
-
 * {
-  font-family: "MiFuente";
+  font-family: "dany";
   color: #ffffff;
   background-color: hsl(0, 0%, 8%);
+  font-weight: 400;
 }
 .container {
   max-width: 340px;
@@ -29,6 +21,9 @@
   border-radius: 50%;
   margin: auto;
 }
+h2{
+  font-weight: 800;
+}
 p {
   font-size: 14px;
 }
@@ -43,7 +38,7 @@ p,h2 {
   margin: 10px;
   border-radius: 5px;
   font-size: medium;
-  font-weight: 700;
+  font-weight: 400;
   border: none;
 }
 .acceso:hover {
